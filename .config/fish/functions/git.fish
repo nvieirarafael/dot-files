@@ -1,0 +1,13 @@
+alias gs='git status'
+alias gc='git commit'
+alias ga='git add'
+alias gm='git merge'
+alias gl="git log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit --date=relative"
+alias gx='git checkout'
+alias gxm='git checkout master'
+alias gr='git rebase'
+alias grm='git rm'
+alias gb='git branch'
+alias gp='git push'
+alias gd='git diff'
+alias gf='git fetch'
