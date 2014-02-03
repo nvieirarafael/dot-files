@@ -1,5 +1,5 @@
 # APPLICATIONS
-alias subl='/Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl'
+alias subl='/Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl'
 
 alias corona_terminal_old='/Applications/CoronaSDK_old/Corona\ Terminal'
 alias corona_terminal='/Applications/CoronaSDK/Corona\ Terminal'
