@@ -20,3 +20,6 @@ setenv J2EE_HOME /Applications/NetBeans/glassfish-4.0/glassfish
 
 # GLASSFISH
 alias asadmin='/Applications/NetBeans/glassfish-4.0/glassfish/bin/asadmin'
+
+set PATH $PATH /Users/Rafael/Development/adt-bundle/sdk/tools
+set PATH $PATH /Users/Rafael/Development/adt-bundle/sdk/platform-tools
