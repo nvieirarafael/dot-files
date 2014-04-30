@@ -13,6 +13,7 @@ alias cm_debug='compass watch --debug-info'
 # SSH
 alias sshwemove='ssh evrm_admin@ftp.wemoveapp.com'
 alias sshew='ssh rafael@everywherekadow.no-ip.org'
+alias sshesfera='ssh ftp_andre.kadow@ftp.aws.ativo.com'
 
 # JAVA ENV
 setenv JAVA_HOME (/usr/libexec/java_home)
